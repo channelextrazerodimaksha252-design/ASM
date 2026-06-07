@@ -76,7 +76,7 @@ export const INITIAL_GALLERY: GalleryItem[] = [
     id: "g1",
     title: "Sastralians Inter House Sports Meet 2025",
     category: "Sports",
-    imageUrl: "https://images.unsplash.com/photo-1502224562085-639556652f33?auto=format&fit=crop&q=80&w=1200",
+    imageUrl: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/653710892_1342910307858445_3664668031245211262_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1387&ctp=s2048x1387&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=e3aoy5SHl5QQ7kNvwGC2uwr&_nc_oc=AdoJc6mjgZY8C0VEqPYHsWkmzrSqmaABLz34cYyMU66U77ZwZYw3Ewz96dKJyGfzlvI&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=SbnIFqeTFbegZgHKfGyh5g&_nc_ss=7a289&oh=00_Af9yk7crFPnwOrmrbDMyQTaq2l8Vl_jF5w1POOgi6BzQHw&oe=6A2ACD72",
     description: "High-speed track capture, vibrant house parades, and emotional finishes of our young athletes from Anura and Rohana houses. Covered live by Sastralians Photography.",
     driveLink: "https://www.facebook.com/sastraliansphotography/photos/",
     date: "2025-03-01"
@@ -85,7 +85,7 @@ export const INITIAL_GALLERY: GalleryItem[] = [
     id: "g2",
     title: "ASM Road Race Championship 2025",
     category: "Sports",
-    imageUrl: "https://images.unsplash.com/photo-1486218119243-13883505764c?auto=format&fit=crop&q=80&w=1200",
+    imageUrl: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/630872452_1314546794028130_270777615388225402_n.jpg?stp=dst-jpg_tt6&cstp=mx1500x1000&ctp=s1500x1000&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=7ZECk9CQMMkQ7kNvwGGC2RO&_nc_oc=AdqvVl9oB-pTGPhAWcp2CW161u6HhHOW13fARHI4H4mLhyRZ1cAyPe9ewcszDUCIeQQ&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=T07gIbocj_JVo1us4tssvA&_nc_ss=7a289&oh=00_Af8cjT6lO8L1tQsEN6WAHf10B43AR2L1vZL5SiFLWyNwgQ&oe=6A2AC79F",
     description: "Adrenaline-fueled early morning coverage across Mathugama highways during the annual school marathon. Full photo series edited and presented by the Photography Wing.",
     driveLink: "https://www.facebook.com/sastraliansphotography/photos/",
     date: "2025-02-20"
@@ -94,7 +94,7 @@ export const INITIAL_GALLERY: GalleryItem[] = [
     id: "g3",
     title: "Sashtra Music Concert 2024 Orchestrals",
     category: "Aesthetics",
-    imageUrl: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&q=80&w=1200",
+    imageUrl: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/654433184_1342905027858973_2988668005743979430_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1387&ctp=s2048x1387&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fRsG1EuxktcQ7kNvwFLY9yZ&_nc_oc=AdqISXQbYk6sjTyiYutizMMun8WVbMDIizvR6ba4LZbI_onun06VI1QkAUq4eVA0f_Q&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=RhhsbxNqq1qMj898vZiCoQ&_nc_ss=7a289&oh=00_Af-NLbvPUhzK4mP4WmN3SjH5PRdjLZBl64WAbQ0sZ36hIQ&oe=6A2AB562",
     description: "Mesmerizing stage views, traditional fusion instrumentation, and orchestral ensembles showcasing artistic brilliance at our premier auditory event night.",
     driveLink: "https://www.facebook.com/sastraliansphotography/photos/",
     date: "2024-10-20"
@@ -103,7 +103,7 @@ export const INITIAL_GALLERY: GalleryItem[] = [
     id: "g4",
     title: "Anada Sara Web Radio Station Inauguration",
     category: "Academic",
-    imageUrl: "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&q=80&w=1200",
+    imageUrl: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/572274763_1230730029076474_3349472139845522043_n.jpg?stp=dst-jpg_tt6&cstp=mx1200x809&ctp=s1200x809&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DVRhbCobFrQQ7kNvwHN-wYo&_nc_oc=AdrQseS2IQCMjlsAadinVjPcWZXJc4kf5sc1-wLlh_xKMKELK7x7t8WHsLwxiJeks2M&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=g4LYagSRO7R1nP4D0roeuw&_nc_ss=7a289&oh=00_Af9S-nShCgSQY8UkwS7wqgzkZsYIScSDDXRdWpH7QlkrlA&oe=6A2ADAF1",
     description: "Launch party, live desk operations, student broadcaster portraits, and technical setup shots of Sri Lanka's leading All Island Web Radio Station.",
     driveLink: "https://www.facebook.com/sastraliansphotography/photos/",
     date: "2024-11-12"
@@ -112,7 +112,7 @@ export const INITIAL_GALLERY: GalleryItem[] = [
     id: "g5",
     title: "National Cadet Corps High Guard Badging",
     category: "Portraits",
-    imageUrl: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&q=80&w=1200",
+    imageUrl: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/653009613_1342904867858989_5454104379772455323_n.jpg?stp=dst-jpg_tt6&cstp=mx1200x1800&ctp=s1200x1800&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YhC2ex3qjqQQ7kNvwEntICW&_nc_oc=Adqo-cAPxqaXCuaodjw7YsTjOKKFXwheFM_YuoCwlTIPLfDOdbCyHM9vGv50EsDYJHM&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=zRsyS6X-K3AMyLU7XW9e5Q&_nc_ss=7a289&oh=00_Af88Sb4CdgG22vWN5Uk_OsqfYH5Z9W2mrn0zLbJ7v0B4Hw&oe=6A2AD8C9",
     description: "A series of high-contrast, prestigious portraits celebrating our 12th Battalion Senior Non-Commissioned Officers (RQ) and cadet squad members in active field gear.",
     driveLink: "https://www.facebook.com/sastraliansphotography/photos/",
     date: "2024-09-08"
@@ -121,10 +121,19 @@ export const INITIAL_GALLERY: GalleryItem[] = [
     id: "g6",
     title: "World Children's Day 2024 Festival",
     category: "Exhibitions",
-    imageUrl: "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?auto=format&fit=crop&q=80&w=1200",
+    imageUrl: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/653705095_1344277747721701_4136075170715863429_n.jpg?stp=c342.0.1365.1365a_dst-jpg_tt6&cstp=mx1365x1365&ctp=s206x206&_nc_cat=103&ccb=1-7&_nc_sid=714c7a&_nc_ohc=5GVIPnSzg-kQ7kNvwE4FLhB&_nc_oc=AdrvARxmSZFnTECx9yC3xTd_DGDyXjdKU6fuj9A6YiSTqWWQKB1w7zqI14RhA508MvY&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=IuHIaof7Vm3DmfgxyIASPQ&_nc_ss=7a289&oh=00_Af-lOIm6xJom4Lj510XOtdD5EwF_ElPCtzi5ADywEPHog&oe=6A2AC3B6",
     description: "Full event captures featuring delightful faces, stage plays, talent forums, and gift distributions at the Mathugama town-hall celebrations.",
     driveLink: "https://www.facebook.com/sastraliansphotography/photos/",
     date: "2024-10-01"
+  },
+  {
+    id: "g7",
+    title: "Sastralians Photography Masterclass & Workshop",
+    category: "Academic",
+    imageUrl: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/562353488_1222351156581028_6306910743439097435_n.jpg?stp=dst-jpg_tt6&cstp=mx960x647&ctp=s960x647&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=iCQDmkglAAIQ7kNvwHAWYK5&_nc_oc=AdpDVbXdsqBan6rVNBA9YVHvbEHVsZd79jY20VXQabTSQvOn88bQ6hsT7c2YG_F2_Ak&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=_hLq0bQ49tUcbbndN8qIwQ&_nc_ss=7a289&oh=00_Af8UPcY76-a_MON0dUFE4vRZHxmut8j-Fu8IYJ_PZygecA&oe=6A2ABBA0",
+    description: "Practical outdoor camera training, lighting capture angles, and digital post-production clinics hosted by Ananda Sastralaya senior photography mentors.",
+    driveLink: "https://www.facebook.com/sastraliansphotography/photos/",
+    date: "2024-06-15"
   }
 ];
 
