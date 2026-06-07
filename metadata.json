@@ -1,0 +1,6 @@
+{
+  "name": "Ananda Sastralaya Media Unit",
+  "description": "Official website for the Ananda Sastralaya National School Media Unit, Matugama. Featuring live broadcast channels, events coverage, announcements, and school updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
